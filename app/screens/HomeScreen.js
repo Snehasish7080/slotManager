@@ -192,8 +192,6 @@ const styles = StyleSheet.create({
   },
   galleryContainer: {
     justifyContent: 'center',
-    alignItems: 'center',
-    // marginTop: 30,
     width: windowWidth,
   },
 });
