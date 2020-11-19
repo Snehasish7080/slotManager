@@ -1,0 +1,1 @@
+export const CHANGE_SLOT_DETAIL = '@@CHANGE_SLOT_DETAIL@@';
